@@ -28,21 +28,21 @@ $(document).ready(function() {
 
 
 //
-var myArray = `${response.data[0]}`;
-var myIndex = 1;
-var print = document.getElementById('print');
+// var myArray = `${response.data[0]}`;
+// var myIndex = 1;
+// var print = document.getElementById('print');
 
-print.innerHTML = myArray[0]; //Print first value of array right away.
+// print.innerHTML = myArray[0]; //Print first value of array right away.
 
-function nextElement() {
-  if (myIndex < myArray.length) {
-    print.innerHTML = myArray[myIndex];
-    myIndex++;
-  }
-  else {
-    myIndex = 0;   
-  }
-};
+// function nextElement() {
+//   if (myIndex < myArray.length) {
+//     print.innerHTML = myArray[myIndex];
+//     myIndex++;
+//   }
+//   else {
+//     myIndex = 0;   
+//   }
+// };
 
 {/* <p>The color is <span id="print"></span>.</p>  */}
 
