@@ -1,8 +1,8 @@
-# _Scary Galactic Calculator_
+# _Giphy API_
 
-#### _Determine your other-worldly age_
+#### _Practicing with the Giphy API_
 
-#### By _**{List of contributors}**_
+#### By _**Kevin Funez & Melissa Schatz-Miller**_
 
 ## Technologies Used
 
@@ -41,4 +41,5 @@ _Please feel free to reach out to me with suggested changes/improvements, or if 
 
 ## Contact Information
 
+Kevin Funez <kevin.funez315@gmail.com>
 Melissa Schatz-Miller <melissa.scmi@gmail.com>
